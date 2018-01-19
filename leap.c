@@ -5,11 +5,11 @@ int a;
 scanf("%d",&a);
 if(a% 4==0);
 {
-printf("it is lead");
+printf("it is leap");
 }
 else
 {
-printf("it is not lead");
+printf("it is not leap");
 }
 return()
 }
